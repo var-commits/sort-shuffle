@@ -1,11 +1,11 @@
 # Shuffle and Sort
 
-This project consists of 9 numbered cards which can be manipulated by using the shuffle and short buttons.
+This is simple responsive page built on JavaScript, HTML and CSS to shuffle/sort the numbered cards.
 
 ## Getting started
 
 - Clone the project
-- Enter the project folder
+- Enter into the project root folder
 - Run index.html in browser
 
 ## Built with
