@@ -1,7 +1,7 @@
 let cardsList = ["1", "2", "3", "4", "5", "6", "7", "8", "9"],
   cardsContainer = document.getElementById("cards-container");
 
-cardsList.forEach((item, index) => {
+cardsList.forEach((item, i) => {
   cardsContainer.innerHTML += "<li data-item=" + item + ">" + item + "</li>";
 });
 
