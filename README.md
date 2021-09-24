@@ -1,6 +1,6 @@
 # Shuffle and Sort
-
-This is simple responsive page built on JavaScript, HTML and CSS to shuffle/sort the numbered cards.
+#### By _**Varun Sankar**_
+#### A simple JavaScript interface to sort/shuffle numbered cards
 
 ## Getting started
 
@@ -8,8 +8,8 @@ This is simple responsive page built on JavaScript, HTML and CSS to shuffle/sort
 - Enter into the project root folder
 - Run index.html in browser
 
-## Built with
+## Technologies Used
 
 - [HTML5]
-- [JS]
+- [JavaScript]
 - [CSS]
