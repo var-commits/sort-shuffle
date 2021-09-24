@@ -4,9 +4,9 @@
 
 ## Getting started
 
-- Clone the project
-- Enter into the project root folder
-- Run index.html in browser
+- Clone this repository
+- Navigate to the top level of the directory
+- Open [index.html](https://github.com/var-commits/sort-shuffle/blob/main/index.html) in your browser
 
 ## Technologies Used
 
